@@ -9,12 +9,12 @@
     }
   ],
   "require": {
-    "backup-manager/backup-manager": "^3.0",
-    "php": "^7.3||^7.4",
-    "symfony/process": "^3||^4||^5",
-    "illuminate/support": "^5.5||^6||^7",
-    "illuminate/container": "^5.5||^6||^7",
-    "illuminate/console": "^5.5||^6||^7"
+    "backup-manager/backup-manager": "^1.0",
+    "php": ">=5.5.0",
+    "symfony/process": "^2.0||^3.0||^4.0",
+    "illuminate/support": "^4.0||^5.0||^6.0",
+    "illuminate/container": "^4.0||^5.0||^6.0",
+    "illuminate/console": "^4.0||^5.0||^6.0"
   },
   "require-dev": {
     "mockery/mockery": "dev-master",
